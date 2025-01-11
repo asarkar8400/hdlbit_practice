@@ -1,21 +1,5 @@
 //-----------------------------------------------------------------------------
-//
-// Title       : top_module
-// Design      : 7458
-// Author      : aritro.sarkar9000@gmail.com
-// Company     : Stony Brook University
-//
-//-----------------------------------------------------------------------------
-//
-// File        : c:/My_Designs/7458/src/7548.v
-// Generated   : Fri Jan 10 11:59:31 2025
-// From        : Interface description file
-// By          : ItfToHdl ver. 1.0
-//
-//-----------------------------------------------------------------------------
-//
-// Description : Design of a 7548 chip
-//
+// Description : Design of a 7548 chip; solution to 7548 on HDLBits
 //-----------------------------------------------------------------------------
 
 module top_module ( 
